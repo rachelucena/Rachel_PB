@@ -17,3 +17,10 @@ Respostas: logico (verdadeiro ou falso)
 
 Para declarar uma variavel:
 tipo identificador = valor
+
+Constante e um espaco de memoria cujo valor nao varia (variavel que nao varia)
+Exemplo: colocar uma palavra que indique a constancia antes da variavel. (no portugol, e const, depende da linguagem)
+	const inteiro idade = 19 (essa variavel sera sempre 19)
+
+Entrada = normalmente e o teclado para a cpu, de forma a processar os dados
+saida = o mais padrao e o monitor
