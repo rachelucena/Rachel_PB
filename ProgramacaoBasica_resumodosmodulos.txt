@@ -1,0 +1,19 @@
+Toda variavel tem um valor, um nome (identificador) e um tipo.
+Exemplo: 19: valor (19), nome (idade), tipo (numero)
+	Ze: valor (ze), nome (nome), tipo (letras)
+
+Regras para nomear um variavel:
+Comecar com uma letra;
+So usar letras e numeros;
+Nao usar acentos;
+Nao pode conter espacos;
+Nao pode ter simbolos (so o underline);
+Nao pode ser uma palavra reservada.
+
+Tipos primitivos e valores
+Numeros: inteiro (130), real (4.5)
+Letras: caracter ('A'), cadeia ("Ola")
+Respostas: logico (verdadeiro ou falso)
+
+Para declarar uma variavel:
+tipo identificador = valor
