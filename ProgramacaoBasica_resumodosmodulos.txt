@@ -24,3 +24,20 @@ Exemplo: colocar uma palavra que indique a constancia antes da variavel. (no por
 
 Entrada = normalmente e o teclado para a cpu, de forma a processar os dados
 saida = o mais padrao e o monitor
+
+Usar biblioteca: inserir biblioteca para usar novos comandos
+Vantagem: torna a linguagem mais leve, economia de memoria, execucao mais otimizada, mais extensibilidade
+
+OPERACOES ARITMETICAS
+
+SOMA +
+Subtracao - 
+Multiplicacao *
+Divisao /
+Modulo %
+
+Ordem de precedencia das operacoes aritmeticas
+1- ()
+2- + ou - unario
+3- * / %
+4- + ou - binario
