@@ -41,3 +41,9 @@ Ordem de precedencia das operacoes aritmeticas
 2- + ou - unario
 3- * / %
 4- + ou - binario
+
+Simplificando expressoes
+
+k = k * 3 ===> k *= 3
+a = a + 4 ===> a += 4
+n = n - 1 ===> n -- 1
