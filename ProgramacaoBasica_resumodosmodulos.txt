@@ -47,3 +47,5 @@ Simplificando expressoes
 k = k * 3 ===> k *= 3
 a = a + 4 ===> a += 4
 n = n - 1 ===> n -- 1
+
+Fluxograma: mostra a sequencia da sua logica
