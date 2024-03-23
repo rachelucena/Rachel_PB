@@ -76,3 +76,11 @@ NAO > E > OU
 
 Precedencia total
 PARENTESES > ARITMETICOS > RELACIONAIS > LOGICOS
+
+CONDICOES SIMPLES
+
+CONDICOES COMPOSTAS: so precisa colocar {} no senao, se o se tiver mais de um comando
+
+CONDICOES ANINHADAS: varias condicoes, uma dentro da outra, tal qual um ninho
+
+CONDICOES MULTIPLAS: varias opcoes fixas. So aceita numeros e caracter
