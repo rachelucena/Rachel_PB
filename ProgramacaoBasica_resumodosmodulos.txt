@@ -49,3 +49,30 @@ a = a + 4 ===> a += 4
 n = n - 1 ===> n -- 1
 
 Fluxograma: mostra a sequencia da sua logica
+
+Operadores relacionais: servem para fazer relacoes, comparacoes entre valores
+
+Comparacao no portugol == (testam a igualdade)
+Diferente: != (testam a diferenca)
+ < > <= (menor ou igual) >= (maior ou igual)
+
+Quando estamos com operacoes simples, nao e possivel utilizar mais de um operador, mas, qd aparecem, deve-se resolver o que estiver primeiro. A ordem de precedencia e de quem aparecer primeiro.
+
+Uma expressao que tem operador relacional vai ter necessariamente um resultado logico (verdadeiro ou falso)
+
+Operadores logicos para comparacao (portugol studio)
+E conjuncao
+ou disjuncao
+nao negacao
+
+Toda premissa pode ser verdadeira ou falsa
+
+PREMISSA E: Para a premissa ser verdadeira, as duas possibilidades precisam ser verdadeiras, todo o restante e falso.
+PREMISSA OU: basta que uma premissa seja verdadeira para que o resultado logico seja verdadeiro
+PREMISSA NAO: Ou e verdadeiro ou e falso
+
+Precedencia dos operadores logicos:
+NAO > E > OU
+
+Precedencia total
+PARENTESES > ARITMETICOS > RELACIONAIS > LOGICOS
