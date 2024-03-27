@@ -93,3 +93,4 @@ Se nao houver icremento, o looping vai ficar infinito.
 Variavel contadora: soma um valor fixo ( +1, +2, etc)
 Variavel acumuladora: soma o valor de uma variavel com outra variavel
 
+Repeticao em flag = repeticao quando nao se sabe o valor de repeticoes (contador).
