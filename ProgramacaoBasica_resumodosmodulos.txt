@@ -96,3 +96,5 @@ Variavel acumuladora: soma o valor de uma variavel com outra variavel
 Repeticao em flag = repeticao quando nao se sabe o valor de repeticoes (contador).
 
 Repeticao com interrupcao = looping infinito, usa-se o comando "pare" para parar a repeticao. a estrutura enquanto sempe comeca como verdadeira
+
+Repeticao com teste logico no final: estrutura faca enquanto (faca -bloco- enquanto -condicao-)
