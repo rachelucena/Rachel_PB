@@ -99,4 +99,4 @@ Repeticao com interrupcao = looping infinito, usa-se o comando "pare" para parar
 
 Repeticao com teste logico no final: estrutura faca enquanto (faca -bloco- enquanto -condicao-)
 
-Repeticao com variavel de controle: variavel que conta, ela controla quantas vezes a variavel vai acontecer (ela tem tres comportamentos padroes: c=1(inicializacao; c<=4(teste logico); c++(incremento): para (c=1;c<=4;c++) Sempre que uma condicao for falsa, o numero ficou ESTOURADO.
+Repeticao com variavel de controle: variavel que conta, ela controla quantas vezes a variavel vai acontecer (ela tem tres comportamentos padroes: c=1(inicializacao; c<=4(teste logico); c++(incremento): para (c=1;c<=4;c++) Sempre que uma condicao for falsa, o numero fica ESTOURADO.
