@@ -103,3 +103,9 @@ Repeticao com variavel de controle: variavel que conta, ela controla quantas vez
 
 Lacos aninhados: quando a variavel fica estourada, ela recomeca a sua contagem e volta a valer o valor inicial
 
+Modulo 4
+Variaveis simples =  guarda apenas um valor para a variavel. inteiro (nome)
+Variaveis compostas = guarda varios valores para a mesma variavel, entao sao necessarios identificadores para os indices (elementos/valores) inteiro (nome)[n de indices]
+
+O primeiro indice e sempre 0
+Variavel composta homogenea unidimensal = vetor
