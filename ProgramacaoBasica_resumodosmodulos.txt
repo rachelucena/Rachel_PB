@@ -109,3 +109,5 @@ Variaveis compostas = guarda varios valores para a mesma variavel, entao sao nec
 
 O primeiro indice e sempre 0
 Variavel composta homogenea unidimensal = vetor
+
+Se nao quiser saber se existe repeticao de valor no vetor, e so usar o pare (ele vai parar de rodar o programa qd achar a chave, msm que haja outras chaves no vetor)
