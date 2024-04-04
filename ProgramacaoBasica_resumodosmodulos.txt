@@ -111,3 +111,8 @@ O primeiro indice e sempre 0
 Variavel composta homogenea unidimensal = vetor
 
 Se nao quiser saber se existe repeticao de valor no vetor, e so usar o pare (ele vai parar de rodar o programa qd achar a chave, msm que haja outras chaves no vetor)
+
+Variavel composta homogenea multidimensional = matrizes (linhas e colunas)
+Pecorrer uma matriz completamente: um para dentro do outro (um para = linha o outro para = coluna)
+Para fixar a coluna, precisa varia a linha
+Para variar a linha, precisa variar a coluna
