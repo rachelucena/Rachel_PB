@@ -116,3 +116,18 @@ Variavel composta homogenea multidimensional = matrizes (linhas e colunas)
 Pecorrer uma matriz completamente: um para dentro do outro (um para = linha o outro para = coluna)
 Para fixar a coluna, precisa varia a linha
 Para variar a linha, precisa variar a coluna
+
+Registro = variavel com variaveis de tipos diferentes (inteiro, real, cadeia, caracter e logico), e composta por campos
+Ex: 
+registro func [
+cadeia nome,
+real salario,
+inteiro idade
+]
+func[nome] = "Jose"
+func[salario] = 1958.45
+func[idade] = 33
+
+Para ordenar vetor: o contador principal comeca na posicao 0 e vai ate a penultima posicao, o contador secundario comeca uma posicao depois do principal e vai ate a ultima
+
+Busca binaria: o vetor e dividido em duas partes, para que a busca possa ser feita. ELE PRECISA ESTAR EM ORDEM! Sao necessrias tres variaveis auxiliares: inicio, fim e meio (soma de inicio e fim / 2)
