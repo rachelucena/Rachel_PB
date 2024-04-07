@@ -131,3 +131,17 @@ func[idade] = 33
 Para ordenar vetor: o contador principal comeca na posicao 0 e vai ate a penultima posicao, o contador secundario comeca uma posicao depois do principal e vai ate a ultima
 
 Busca binaria: o vetor e dividido em duas partes, para que a busca possa ser feita. ELE PRECISA ESTAR EM ORDEM! Sao necessrias tres variaveis auxiliares: inicio, fim e meio (soma de inicio e fim / 2)
+
+Existem dois tipos de rotinas: sem retorno/procedimentos (sem retorno de valor) e com retorno/funcoes (com retorno de valor)
+
+Rotina: e uma acao que acontece periodicamente, sempre que ocorre um evento dispaador. Em alguns casos, parametros sao recebidos e afetam na execucao da rotina. Terminada a acao, o fluxo de execucao volta ao ponto em que estava no momento do disparo.
+
+Nenhuma funcao sem um disparo.
+
+Parametro real = parametro que vai ser passado para a funcao, fica na chamada
+Parameto formal = pega o valor declarado na chamada e passa para a linha de declaracao
+
+Na passagem por valor, o conteudo do parametro real e copiado para o parameto formal. Qq mudanca no valor do formal NAO AFETA o valor real.
+
+Escopo local = qd a variavel so funciona dentro daquela funcao onde ela esta declarada, da mesma forma que os parametros so funcionam nessas variaveis.
+EScopo global = ad a variavel funciona em tds as funcoes, no programa inteiro
