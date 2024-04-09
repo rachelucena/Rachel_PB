@@ -145,3 +145,5 @@ Na passagem por valor, o conteudo do parametro real e copiado para o parameto fo
 
 Escopo local = qd a variavel so funciona dentro daquela funcao onde ela esta declarada, da mesma forma que os parametros so funcionam nessas variaveis.
 EScopo global = ad a variavel funciona em tds as funcoes, no programa inteiro
+
+Em uma funcao com retorno de resultados, o retorno da funcao inicio, tem que ter o mesmo tipo primitivo (cadeia, inteiro, logico, etc) da funcao de rotina/chamada.
