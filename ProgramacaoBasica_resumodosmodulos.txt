@@ -147,3 +147,7 @@ Escopo local = qd a variavel so funciona dentro daquela funcao onde ela esta dec
 EScopo global = ad a variavel funciona em tds as funcoes, no programa inteiro
 
 Em uma funcao com retorno de resultados, o retorno da funcao inicio, tem que ter o mesmo tipo primitivo (cadeia, inteiro, logico, etc) da funcao de rotina/chamada.
+
+Funcao recursiva (recorrencia): funcao que chama ela mesma, ela depende dela mesmo
+Caso base = n x 0 = 0
+Caso recursivo = n x m = n + n.(m-1) [o m precisa ser maior que zero/positivo)
